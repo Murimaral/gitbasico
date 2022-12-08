@@ -1,6 +1,6 @@
 O murilo eh\num
-Sou um texto singelo sendo adicionado em arq1
-Sou um texto singelo sendo adicionado em arq1
-Sou um texto singelo sendo adicionado em arq1
-Sou um texto singelo sendo adicionado em arq1
-Sou um texto singelo sendo adicionado em arq1
+Sou um texto que veio para causar conflito e terror
+Sou um texto que veio para causar conflito e terror
+Sou um texto que veio para causar conflito e terror
+Sou um texto que veio para causar conflito e terror
+Sou um texto que veio para causar conflito e terror
