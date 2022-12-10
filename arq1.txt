@@ -1,6 +1,6 @@
 O murilo eh\num
 Sou um texto que veio para causar conflito e terror
+Adicionei uma linha muahahaha
 Sou um texto que veio para causar conflito e terror
-Sou um texto que veio para causar conflito e terror
-Sou um texto que veio para causar conflito e terror
-Sou um texto que veio para causar conflito e terror
+Sou um texto que veio para alterei esta linha muahahaha
+Excluí algumas linhas muahahaha
